@@ -11,15 +11,15 @@ PODS:
     - React/Core
 
 DEPENDENCIES:
-  - React/Core (from `/Users/mzr/miaozhirui/linux-local-test/react-native/react-native-lagou/node_modules/react-native`)
-  - React/RCTImage (from `/Users/mzr/miaozhirui/linux-local-test/react-native/react-native-lagou/node_modules/react-native`)
-  - React/RCTNetwork (from `/Users/mzr/miaozhirui/linux-local-test/react-native/react-native-lagou/node_modules/react-native`)
-  - React/RCTText (from `/Users/mzr/miaozhirui/linux-local-test/react-native/react-native-lagou/node_modules/react-native`)
-  - React/RCTWebSocket (from `/Users/mzr/miaozhirui/linux-local-test/react-native/react-native-lagou/node_modules/react-native`)
+  - React/Core (from `./node_modules/react-native`)
+  - React/RCTImage (from `./node_modules/react-native`)
+  - React/RCTNetwork (from `./node_modules/react-native`)
+  - React/RCTText (from `./node_modules/react-native`)
+  - React/RCTWebSocket (from `./node_modules/react-native`)
 
 EXTERNAL SOURCES:
   React:
-    :path: "/Users/mzr/miaozhirui/linux-local-test/react-native/react-native-lagou/node_modules/react-native"
+    :path: "./node_modules/react-native"
 
 SPEC CHECKSUMS:
   React: 788590e9bb1784fac953ded1b325f16d9e817090

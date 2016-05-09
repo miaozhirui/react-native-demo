@@ -1,1 +1,1 @@
-../../../../../../../../../miaozhirui/linux-local-test/react-native/react-native-lagou/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+../../../../node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

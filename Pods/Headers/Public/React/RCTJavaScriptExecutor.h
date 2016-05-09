@@ -1,1 +1,1 @@
-../../../../../../../../../miaozhirui/linux-local-test/react-native/react-native-lagou/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h
+../../../../node_modules/react-native/React/Base/RCTJavaScriptExecutor.h
